@@ -1,0 +1,14 @@
+ID: 1110101
+Tipo de Activo: Impresora
+Marca: Epson
+Modelo: L380
+Serial: 525262626
+Responsable: Juan Perez
+ID: 2024
+Tipo de Activo: Impresora
+Marca: Epson
+Modelo: L380
+Serial: 2594
+Responsable: Juan Perez
+2024;Impresora;Epson;L380;141414;Juan Perez
+90;Impresora;Epson;L380;2929;Juan Perez
